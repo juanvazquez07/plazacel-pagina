@@ -1,0 +1,429 @@
+{
+    "celulares_accesorios": [
+        {
+            "cases_fundas":[
+                
+                {
+                    "id": 1,
+                    "idiv":"cases_fundas",
+                    "categorie":"CASES Y FUNDAS",
+                    "name": "Funda / Case Shield para iPhone 11",
+                    "img": "https://pisces.bbystatic.com/image2/BestBuy_MX/images/products/1000/1000222876cv14a.jpg",
+                    "precio":"499"
+                },
+                {
+                    "id": 2,
+                    "idiv":"cases_fundas",
+                    "categorie":"CASES Y FUNDAS",
+                    "name": "Funda Crystal Palace para Samsung Galaxy S20",
+                    "img": "https://pisces.bbystatic.com/image2/BestBuy_MX/images/products/1000/1000228323_sd.jpg",
+                    "precio":"699"
+                },
+                {
+                    "id": 3,
+                    "idiv":"cases_fundas",
+                    "categorie":"CASES Y FUNDAS",
+                    "name": "Funda/Case Clear para iPhone 11",
+                    "img": "https://pisces.bbystatic.com/image2/BestBuy_MX/images/products/1000/1000223103_sd.jpg",
+                    "precio":"479"
+                },
+                {
+                    "id": 4,
+                    "idiv":"cases_fundas",
+                    "categorie":"CASES Y FUNDAS",
+                    "name": "Funda/Case Clear para iPhone 11 Pro",
+                    "img": "https://pisces.bbystatic.com/image2/BestBuy_MX/images/products/1000/1000223090_sd.jpg",
+                    "precio":"479"
+                },
+                {
+                    "id": 5,
+                    "idiv":"cases_fundas",
+                    "categorie":"CASES Y FUNDAS",
+                    "name": "Funda Silicon para Samsung Galaxy S20",
+                    "img": "https://pisces.bbystatic.com/image2/BestBuy_MX/images/products/1000/1000227341_sd.jpg",
+                    "precio":"599"
+                }
+            ],
+            "micas_protectoras":[
+                {
+                    "id": 1,
+                    "idiv":"micas_protectoras",
+                    "categorie":"MICAS PROTECTORAS",
+                    "name": "Mica Protectora iPhone 6 Plus/6S Plus/7",
+                    "img": "https://pisces.bbystatic.com/image2/BestBuy_MX/images/products/1000/1000221881cv12d.jpg",
+                    "precio":"299"
+                },
+                {
+                    "id": 2,
+                    "idiv":"micas_protectoras",
+                    "categorie":"MICAS PROTECTORAS",
+                    "name": "Mica protectora Samsung Galaxy S10",
+                    "img": "https://pisces.bbystatic.com/image2/BestBuy_MX/images/products/1000/1000217776cv11d.jpg",
+                    "precio":"399"
+                },
+                {
+                    "id": 3,
+                    "idiv":"micas_protectoras",
+                    "categorie":"MICAS PROTECTORAS",
+                    "name": "Mica protectora Invisible Shield",
+                    "img": "https://pisces.bbystatic.com/image2/BestBuy_MX/images/products/1000/1000227508_rd.jpg",
+                    "precio":"399"
+                },
+                {
+                    "id": 4,
+                    "idiv":"micas_protectoras",
+                    "categorie":"MICAS PROTECTORAS",
+                    "name": "Mica Privacidad iPhone 11 Pro",
+                    "img": "https://pisces.bbystatic.com/image2/BestBuy_MX/images/products/1000/1000227226_rd.jpg",
+                    "precio":"599"
+                },
+                {
+                    "id": 5,
+                    "idiv":"micas_protectoras",
+                    "categorie":"MICAS PROTECTORAS",
+                    "name": "Mica protectora Samsung Galaxy S10 Plus",
+                    "img": "https://pisces.bbystatic.com/image2/BestBuy_MX/images/products/1000/1000217777cv11d.jpg",
+                    "precio":"399"
+                }
+            ],
+            "cargadores":[
+                {
+                    "id": 1,
+                    "idiv":"cargadores",
+                    "categorie":"CARGADORES",
+                    "name": "Cargador USB de Pared",
+                    "img": "https://pisces.bbystatic.com/image2/BestBuy_MX/images/products/1000/1000222035_sa.jpg",
+                    "precio":"459"
+                },
+                {
+                    "id": 2,
+                    "idiv":"cargadores",
+                    "categorie":"CARGADORES",
+                    "name": "Cargador de coche 3 puertos de carga rápida",
+                    "img": "https://pisces.bbystatic.com/image2/BestBuy_MX/images/products/1000/1000217706_sd.jpg",
+                    "precio":"310"
+                },
+                {
+                    "id": 3,
+                    "idiv":"cargadores",
+                    "categorie":"CARGADORES",
+                    "name": "Cargador de Pared 2.4 + Cable USB",
+                    "img": "https://pisces.bbystatic.com/image2/BestBuy_MX/images/products/1000/1000205186_sa.jpg",
+                    "precio":"289"
+                },
+                {
+                    "id": 4,
+                    "idiv":"cargadores",
+                    "categorie":"CARGADORES",
+                    "name": "Cargador pared USB-C 18W",
+                    "img": "https://pisces.bbystatic.com/image2/BestBuy_MX/images/products/1000/1000216524cv11d.jpg",
+                    "precio":"249"
+                },
+                {
+                    "id": 5,
+                    "idiv":"cargadores",
+                    "categorie":"CARGADORES",
+                    "name": "Estación de carga con 6 puertos Omnia PA601",
+                    "img": "https://pisces.bbystatic.com/image2/BestBuy_MX/images/products/1000/1000222035_sa.jpg",
+                    "precio":"1,499"
+                }
+            ],
+            "accesorios":[
+                {
+                    "id": 1,
+                    "name": "Glassguard - Mica Protectora Para iPhone 6 Plus/6S Plus/7",
+                    "img": "https://pisces.bbystatic.com/image2/BestBuy_MX/images/products/1000/1000221881cv12d.jpg",
+                    "precio":"299"
+                },
+                {
+                    "id": 2,
+                    "name": "Zagg - Mica protectora de pantalla InvisibleShield para Samsung Galaxy S10 - Transparente",
+                    "img": "https://pisces.bbystatic.com/image2/BestBuy_MX/images/products/1000/1000217776cv11d.jpg",
+                    "precio":"399"
+                },
+                {
+                    "id": 3,
+                    "name": "Zagg - Mica protectora Invisible Shield - Transparente",
+                    "img": "https://pisces.bbystatic.com/image2/BestBuy_MX/images/products/1000/1000227508_rd.jpg",
+                    "precio":"399"
+                },
+                {
+                    "id": 4,
+                    "name": "Panzer - Mica Privacidad para iPhone 11 Pro - Transparente",
+                    "img": "https://pisces.bbystatic.com/image2/BestBuy_MX/images/products/1000/1000227226_rd.jpg",
+                    "precio":"599"
+                },
+                {
+                    "id": 5,
+                    "name": "Zagg - Mica protectora de pantalla InvisibleShield para Samsung Galaxy S10 Plus - Transparente",
+                    "img": "https://pisces.bbystatic.com/image2/BestBuy_MX/images/products/1000/1000217777cv11d.jpg",
+                    "precio":"399"
+                }
+            ]
+        }
+    ],
+    "refacciones": [
+        {
+            "baterias":[
+                {
+                    "id": 1,
+                    "name": "Glassguard - Mica Protectora Para iPhone 6 Plus/6S Plus/7",
+                    "img": "https://pisces.bbystatic.com/image2/BestBuy_MX/images/products/1000/1000221881cv12d.jpg",
+                    "precio":"299"
+                },
+                {
+                    "id": 2,
+                    "name": "Zagg - Mica protectora de pantalla InvisibleShield para Samsung Galaxy S10 - Transparente",
+                    "img": "https://pisces.bbystatic.com/image2/BestBuy_MX/images/products/1000/1000217776cv11d.jpg",
+                    "precio":"399"
+                },
+                {
+                    "id": 3,
+                    "name": "Zagg - Mica protectora Invisible Shield - Transparente",
+                    "img": "https://pisces.bbystatic.com/image2/BestBuy_MX/images/products/1000/1000227508_rd.jpg",
+                    "precio":"399"
+                },
+                {
+                    "id": 4,
+                    "name": "Panzer - Mica Privacidad para iPhone 11 Pro - Transparente",
+                    "img": "https://pisces.bbystatic.com/image2/BestBuy_MX/images/products/1000/1000227226_rd.jpg",
+                    "precio":"599"
+                },
+                {
+                    "id": 5,
+                    "name": "Zagg - Mica protectora de pantalla InvisibleShield para Samsung Galaxy S10 Plus - Transparente",
+                    "img": "https://pisces.bbystatic.com/image2/BestBuy_MX/images/products/1000/1000217777cv11d.jpg",
+                    "precio":"399"
+                }
+            ],
+            "puertos":[
+                {
+                    "id": 1,
+                    "name": "Glassguard - Mica Protectora Para iPhone 6 Plus/6S Plus/7",
+                    "img": "https://pisces.bbystatic.com/image2/BestBuy_MX/images/products/1000/1000221881cv12d.jpg",
+                    "precio":"299"
+                },
+                {
+                    "id": 2,
+                    "name": "Zagg - Mica protectora de pantalla InvisibleShield para Samsung Galaxy S10 - Transparente",
+                    "img": "https://pisces.bbystatic.com/image2/BestBuy_MX/images/products/1000/1000217776cv11d.jpg",
+                    "precio":"399"
+                },
+                {
+                    "id": 3,
+                    "name": "Zagg - Mica protectora Invisible Shield - Transparente",
+                    "img": "https://pisces.bbystatic.com/image2/BestBuy_MX/images/products/1000/1000227508_rd.jpg",
+                    "precio":"399"
+                },
+                {
+                    "id": 4,
+                    "name": "Panzer - Mica Privacidad para iPhone 11 Pro - Transparente",
+                    "img": "https://pisces.bbystatic.com/image2/BestBuy_MX/images/products/1000/1000227226_rd.jpg",
+                    "precio":"599"
+                },
+                {
+                    "id": 5,
+                    "name": "Zagg - Mica protectora de pantalla InvisibleShield para Samsung Galaxy S10 Plus - Transparente",
+                    "img": "https://pisces.bbystatic.com/image2/BestBuy_MX/images/products/1000/1000217777cv11d.jpg",
+                    "precio":"399"
+                }
+            ],
+            "displays":[
+                {
+                    "id": 1,
+                    "name": "Glassguard - Mica Protectora Para iPhone 6 Plus/6S Plus/7",
+                    "img": "https://pisces.bbystatic.com/image2/BestBuy_MX/images/products/1000/1000221881cv12d.jpg",
+                    "precio":"299"
+                },
+                {
+                    "id": 2,
+                    "name": "Zagg - Mica protectora de pantalla InvisibleShield para Samsung Galaxy S10 - Transparente",
+                    "img": "https://pisces.bbystatic.com/image2/BestBuy_MX/images/products/1000/1000217776cv11d.jpg",
+                    "precio":"399"
+                },
+                {
+                    "id": 3,
+                    "name": "Zagg - Mica protectora Invisible Shield - Transparente",
+                    "img": "https://pisces.bbystatic.com/image2/BestBuy_MX/images/products/1000/1000227508_rd.jpg",
+                    "precio":"399"
+                },
+                {
+                    "id": 4,
+                    "name": "Panzer - Mica Privacidad para iPhone 11 Pro - Transparente",
+                    "img": "https://pisces.bbystatic.com/image2/BestBuy_MX/images/products/1000/1000227226_rd.jpg",
+                    "precio":"599"
+                },
+                {
+                    "id": 5,
+                    "name": "Zagg - Mica protectora de pantalla InvisibleShield para Samsung Galaxy S10 Plus - Transparente",
+                    "img": "https://pisces.bbystatic.com/image2/BestBuy_MX/images/products/1000/1000217777cv11d.jpg",
+                    "precio":"399"
+                }
+            ],
+            "flexs":[
+                {
+                    "id": 1,
+                    "name": "Glassguard - Mica Protectora Para iPhone 6 Plus/6S Plus/7",
+                    "img": "https://pisces.bbystatic.com/image2/BestBuy_MX/images/products/1000/1000221881cv12d.jpg",
+                    "precio":"299"
+                },
+                {
+                    "id": 2,
+                    "name": "Zagg - Mica protectora de pantalla InvisibleShield para Samsung Galaxy S10 - Transparente",
+                    "img": "https://pisces.bbystatic.com/image2/BestBuy_MX/images/products/1000/1000217776cv11d.jpg",
+                    "precio":"399"
+                },
+                {
+                    "id": 3,
+                    "name": "Zagg - Mica protectora Invisible Shield - Transparente",
+                    "img": "https://pisces.bbystatic.com/image2/BestBuy_MX/images/products/1000/1000227508_rd.jpg",
+                    "precio":"399"
+                },
+                {
+                    "id": 4,
+                    "name": "Panzer - Mica Privacidad para iPhone 11 Pro - Transparente",
+                    "img": "https://pisces.bbystatic.com/image2/BestBuy_MX/images/products/1000/1000227226_rd.jpg",
+                    "precio":"599"
+                },
+                {
+                    "id": 5,
+                    "name": "Zagg - Mica protectora de pantalla InvisibleShield para Samsung Galaxy S10 Plus - Transparente",
+                    "img": "https://pisces.bbystatic.com/image2/BestBuy_MX/images/products/1000/1000217777cv11d.jpg",
+                    "precio":"399"
+                }
+            ]
+        }
+    ],
+    "herramientas": [
+        {
+            "baterias":[
+                {
+                    "id": 1,
+                    "name": "Glassguard - Mica Protectora Para iPhone 6 Plus/6S Plus/7",
+                    "img": "https://pisces.bbystatic.com/image2/BestBuy_MX/images/products/1000/1000221881cv12d.jpg",
+                    "precio":"299"
+                },
+                {
+                    "id": 2,
+                    "name": "Zagg - Mica protectora de pantalla InvisibleShield para Samsung Galaxy S10 - Transparente",
+                    "img": "https://pisces.bbystatic.com/image2/BestBuy_MX/images/products/1000/1000217776cv11d.jpg",
+                    "precio":"399"
+                },
+                {
+                    "id": 3,
+                    "name": "Zagg - Mica protectora Invisible Shield - Transparente",
+                    "img": "https://pisces.bbystatic.com/image2/BestBuy_MX/images/products/1000/1000227508_rd.jpg",
+                    "precio":"399"
+                },
+                {
+                    "id": 4,
+                    "name": "Panzer - Mica Privacidad para iPhone 11 Pro - Transparente",
+                    "img": "https://pisces.bbystatic.com/image2/BestBuy_MX/images/products/1000/1000227226_rd.jpg",
+                    "precio":"599"
+                },
+                {
+                    "id": 5,
+                    "name": "Zagg - Mica protectora de pantalla InvisibleShield para Samsung Galaxy S10 Plus - Transparente",
+                    "img": "https://pisces.bbystatic.com/image2/BestBuy_MX/images/products/1000/1000217777cv11d.jpg",
+                    "precio":"399"
+                }
+            ],
+            "puertos":[
+                {
+                    "id": 1,
+                    "name": "Glassguard - Mica Protectora Para iPhone 6 Plus/6S Plus/7",
+                    "img": "https://pisces.bbystatic.com/image2/BestBuy_MX/images/products/1000/1000221881cv12d.jpg",
+                    "precio":"299"
+                },
+                {
+                    "id": 2,
+                    "name": "Zagg - Mica protectora de pantalla InvisibleShield para Samsung Galaxy S10 - Transparente",
+                    "img": "https://pisces.bbystatic.com/image2/BestBuy_MX/images/products/1000/1000217776cv11d.jpg",
+                    "precio":"399"
+                },
+                {
+                    "id": 3,
+                    "name": "Zagg - Mica protectora Invisible Shield - Transparente",
+                    "img": "https://pisces.bbystatic.com/image2/BestBuy_MX/images/products/1000/1000227508_rd.jpg",
+                    "precio":"399"
+                },
+                {
+                    "id": 4,
+                    "name": "Panzer - Mica Privacidad para iPhone 11 Pro - Transparente",
+                    "img": "https://pisces.bbystatic.com/image2/BestBuy_MX/images/products/1000/1000227226_rd.jpg",
+                    "precio":"599"
+                },
+                {
+                    "id": 5,
+                    "name": "Zagg - Mica protectora de pantalla InvisibleShield para Samsung Galaxy S10 Plus - Transparente",
+                    "img": "https://pisces.bbystatic.com/image2/BestBuy_MX/images/products/1000/1000217777cv11d.jpg",
+                    "precio":"399"
+                }
+            ],
+            "displays":[
+                {
+                    "id": 1,
+                    "name": "Glassguard - Mica Protectora Para iPhone 6 Plus/6S Plus/7",
+                    "img": "https://pisces.bbystatic.com/image2/BestBuy_MX/images/products/1000/1000221881cv12d.jpg",
+                    "precio":"299"
+                },
+                {
+                    "id": 2,
+                    "name": "Zagg - Mica protectora de pantalla InvisibleShield para Samsung Galaxy S10 - Transparente",
+                    "img": "https://pisces.bbystatic.com/image2/BestBuy_MX/images/products/1000/1000217776cv11d.jpg",
+                    "precio":"399"
+                },
+                {
+                    "id": 3,
+                    "name": "Zagg - Mica protectora Invisible Shield - Transparente",
+                    "img": "https://pisces.bbystatic.com/image2/BestBuy_MX/images/products/1000/1000227508_rd.jpg",
+                    "precio":"399"
+                },
+                {
+                    "id": 4,
+                    "name": "Panzer - Mica Privacidad para iPhone 11 Pro - Transparente",
+                    "img": "https://pisces.bbystatic.com/image2/BestBuy_MX/images/products/1000/1000227226_rd.jpg",
+                    "precio":"599"
+                },
+                {
+                    "id": 5,
+                    "name": "Zagg - Mica protectora de pantalla InvisibleShield para Samsung Galaxy S10 Plus - Transparente",
+                    "img": "https://pisces.bbystatic.com/image2/BestBuy_MX/images/products/1000/1000217777cv11d.jpg",
+                    "precio":"399"
+                }
+            ],
+            "flexs":[
+                {
+                    "id": 1,
+                    "name": "Glassguard - Mica Protectora Para iPhone 6 Plus/6S Plus/7",
+                    "img": "https://pisces.bbystatic.com/image2/BestBuy_MX/images/products/1000/1000221881cv12d.jpg",
+                    "precio":"299"
+                },
+                {
+                    "id": 2,
+                    "name": "Zagg - Mica protectora de pantalla InvisibleShield para Samsung Galaxy S10 - Transparente",
+                    "img": "https://pisces.bbystatic.com/image2/BestBuy_MX/images/products/1000/1000217776cv11d.jpg",
+                    "precio":"399"
+                },
+                {
+                    "id": 3,
+                    "name": "Zagg - Mica protectora Invisible Shield - Transparente",
+                    "img": "https://pisces.bbystatic.com/image2/BestBuy_MX/images/products/1000/1000227508_rd.jpg",
+                    "precio":"399"
+                },
+                {
+                    "id": 4,
+                    "name": "Panzer - Mica Privacidad para iPhone 11 Pro - Transparente",
+                    "img": "https://pisces.bbystatic.com/image2/BestBuy_MX/images/products/1000/1000227226_rd.jpg",
+                    "precio":"599"
+                },
+                {
+                    "id": 5,
+                    "name": "Zagg - Mica protectora de pantalla InvisibleShield para Samsung Galaxy S10 Plus - Transparente",
+                    "img": "https://pisces.bbystatic.com/image2/BestBuy_MX/images/products/1000/1000217777cv11d.jpg",
+                    "precio":"399"
+                }
+            ]
+        }
+    ]
+}

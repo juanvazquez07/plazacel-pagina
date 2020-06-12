@@ -1,0 +1,355 @@
+ {
+    "Alcatel":[
+        {
+            "Modelos":[
+                {
+                    "Nombre": "Alcatel 1B (2020)",
+                    "Numero de modelo":"",
+                    "Servicios":["liberacion", ""]
+                }, 
+                {
+                 "Nombre": "Alcatel 1S (2020)",
+                 "Numero de modelo":"",
+                 "Servicios":["liberacion", ""]
+                },
+                {
+                 "Nombre": "Alcatel 1V (2020)",
+                 "Numero de modelo":"",
+                 "Servicios":["liberacion", ""]
+                },
+                {
+                 "Nombre": "Alcatel 3L (2020)",
+                 "Numero de modelo":"",
+                 "Servicios":["liberacion", ""]
+                }   
+             ],
+             "Imagen":"pics/minAlcatel.jpg"
+        }  
+    ],
+    "Apple":[
+        {
+            "Modelos":[
+                {
+                    "Nombre": "iPhone 11 Pro",
+                    "Numero de modelo":"",
+                    "Servicios":["liberacion", ""]
+                },
+                {
+                 "Nombre": "iPhone 11",
+                 "Numero de modelo":"",
+                 "Servicios":["liberacion", ""]
+                },
+                {
+                 "Nombre": "iPhone XS",
+                 "Numero de modelo":"",
+                 "Servicios":["liberacion", ""]
+                },
+                {
+                 "Nombre": "iPhone X",
+                 "Numero de modelo":"",
+                 "Servicios":["liberacion", ""]
+                }
+             ],
+             "Imagen":"pics/minApple.jpg"
+        }
+        
+    ],
+    "Blu":[
+        {
+            "Modelos":[
+                {
+                    "Nombre": "Bold N1",
+                    "Numero de modelo":"",
+                    "Servicios":["liberacion", ""]
+                },
+                {
+                 "Nombre": "Vivo X5",
+                 "Numero de modelo":"",
+                 "Servicios":["liberacion", ""]
+                },
+                {
+                 "Nombre": "Vivo XL5",
+                 "Numero de modelo":"",
+                 "Servicios":["liberacion", ""]
+                },
+                {
+                 "Nombre": "G9 Pro",
+                 "Numero de modelo":"",
+                 "Servicios":["liberacion", ""]
+                }
+            ],
+            "Imagen":"pics/minBlu.jpg"
+        }
+        
+    ],
+    "Google":[
+        {
+            "Modelos":[
+                {
+                    "Nombre": "Plxel 4",
+                    "Numero de modelo":"",
+                    "Servicios":["liberacion", ""]
+                },
+                {
+                 "Nombre": "Pixel 4 XL",
+                 "Numero de modelo":"",
+                 "Servicios":["liberacion", ""]
+                },
+                {
+                 "Nombre": "Pixel 3a XL",
+                 "Numero de modelo":"",
+                 "Servicios":["liberacion", ""]
+                },
+                {
+                 "Nombre": "Pixel 3a",
+                 "Numero de modelo":"",
+                 "Servicios":["liberacion", ""]
+                } 
+            ],
+            "Imagen":"pics/minGoogle.jpg"
+        }
+    ],
+    "Htc":[
+        {
+            "Modelos":[
+                {
+                    "Nombre": "Desire 19s",
+                    "Numero de modelo":"",
+                    "Servicios":["liberacion", ""]
+                },
+                {
+                 "Nombre": "Wildfire X",
+                 "Numero de modelo":"",
+                 "Servicios":["liberacion", ""]
+                },
+                {
+                 "Nombre": "U19e",
+                 "Numero de modelo":"",
+                 "Servicios":["liberacion", ""]
+                },
+                {
+                 "Nombre": "Desire 12s",
+                 "Numero de modelo":"",
+                 "Servicios":["liberacion", ""]
+                }
+            ],
+            "Imagen":"pics/minHtc.jpg"
+        }
+    ],
+    "Huawei":[
+        {
+            "Modelos":[
+                {
+                    "Nombre": "P40 Lite 5G",
+                    "Numero de modelo":"",
+                    "Servicios":["liberacion", ""]
+                },
+                {
+                 "Nombre": "nova 7i",
+                 "Numero de modelo":"",
+                 "Servicios":["liberacion", ""]
+                },
+                {
+                 "Nombre": "Y8s",
+                 "Numero de modelo":"",
+                 "Servicios":["liberacion", ""]
+                },
+                {
+                 "Nombre": "Y6p",
+                 "Numero de modelo":"",
+                 "Servicios":["liberacion", ""]
+                }
+            ],
+            "Imagen":"pics/minHuawei.jpg"
+        }
+    ],
+    "Lg":[
+        {
+            "Modelos":[
+                {
+                    "Nombre": "Velvet",
+                    "Numero de modelo":"",
+                    "Servicios":["liberacion", ""]
+                },
+                {
+                 "Nombre": "V60 ThinQ 5G",
+                 "Numero de modelo":"",
+                 "Servicios":["liberacion", ""]
+                },
+                {
+                 "Nombre": "Q51",
+                 "Numero de modelo":"",
+                 "Servicios":["liberacion", ""]
+                },
+                {
+                 "Nombre": "W10 Alpha",
+                 "Numero de modelo":"",
+                 "Servicios":["liberacion", ""]
+                }
+            ],
+            "Imagen":"pics/minLg.jpg"
+        }
+    ],
+    "Motorola":[
+        {
+            "Modelos":[
+                {
+                    "Nombre": "Edge+",
+                    "Numero de modelo":"",
+                    "Servicios":["liberacion", ""]
+                },
+                {
+                 "Nombre": "Moto G8 Power Lite",
+                 "Numero de modelo":"",
+                 "Servicios":["liberacion", ""]
+                },
+                {
+                 "Nombre": "Moto E6s",
+                 "Numero de modelo":"",
+                 "Servicios":["liberacion", ""]
+                },
+                {
+                 "Nombre": "Moto G8",
+                 "Numero de modelo":"",
+                 "Servicios":["liberacion", ""]
+                } 
+            ],
+            "Imagen":"pics/minMotorola.jpg"
+        }
+    ],
+    "Nokia":[
+        {
+            "Modelos":[
+                {
+                    "Nombre": "8.3 5G",
+                    "Numero de modelo":"",
+                    "Servicios":["liberacion", ""]
+                },
+                {
+                 "Nombre": "C2",
+                 "Numero de modelo":"",
+                 "Servicios":["liberacion", ""]
+                },
+                {
+                 "Nombre": "150 (2020)",
+                 "Numero de modelo":"",
+                 "Servicios":["liberacion", ""]
+                },
+                {
+                 "Nombre": "1.3",
+                 "Numero de modelo":"",
+                 "Servicios":["liberacion", ""]
+                }
+            ],
+            "Imagen":"pics/minNokia.jpg"
+        }
+    ],
+    "Samsung":[
+        {
+            "Modelos":[
+                {
+                    "Nombre": "Galaxy A21s",
+                    "Numero de modelo":"",
+                    "Servicios":["liberacion", ""]
+                },
+                {
+                 "Nombre": "Galaxy J2 Core (2020)",
+                 "Numero de modelo":"",
+                 "Servicios":["liberacion", ""]
+                },
+                {
+                 "Nombre": "Galaxy A71 5G",
+                 "Numero de modelo":"",
+                 "Servicios":["liberacion", ""]
+                },
+                {
+                 "Nombre": "Galaxy S20",
+                 "Numero de modelo":"",
+                 "Servicios":["liberacion", ""]
+                } 
+            ],
+            "Imagen":"pics/minSamsung.jpg"
+        }
+    ],
+    "Sony":[
+        {
+            "Modelos":[
+                {
+                    "Nombre": "Xperia 10 II",
+                    "Numero de modelo":"",
+                    "Servicios":["liberacion", ""]
+                },
+                {
+                 "Nombre": "Xperia 1 II",
+                 "Numero de modelo":"",
+                 "Servicios":["liberacion", ""]
+                },
+                {
+                 "Nombre": "Xperia L4",
+                 "Numero de modelo":"",
+                 "Servicios":["liberacion", ""]
+                },
+                {
+                 "Nombre": "Xperia 5",
+                 "Numero de modelo":"",
+                 "Servicios":["liberacion", ""]
+                }
+            ],
+            "Imagen":"pics/minSony.jpg"
+        }
+    ],
+    "Xiaomi":[
+        {
+            "Modelos":[
+                {
+                    "Nombre": "Poco F2 Pro",
+                    "Numero de modelo":"",
+                    "Servicios":["liberacion", ""]
+                },
+                {
+                 "Nombre": "Redmi K30 5G Racing",
+                 "Numero de modelo":"",
+                 "Servicios":["liberacion", ""]
+                },
+                {
+                 "Nombre": "Redmi Note 9",
+                 "Numero de modelo":"",
+                 "Servicios":["liberacion", ""]
+                },
+                {
+                 "Nombre": "Redmi Note 9 Pro (Global)",
+                 "Numero de modelo":"",
+                 "Servicios":["liberacion", ""]
+                } 
+            ],
+            "Imagen":"pics/minXiaomi.jpg"
+        }
+    ],
+    "ZTE":[
+        {
+            "Modelos":[
+                {
+                    "Nombre": "nubia Play",
+                    "Numero de modelo":"",
+                    "Servicios":["liberacion", ""]
+                },
+                {
+                 "Nombre": "Axon 11 5G",
+                 "Numero de modelo":"",
+                 "Servicios":["liberacion", ""]
+                },
+                {
+                 "Nombre": "nubia Red Magic 5G",
+                 "Numero de modelo":"",
+                 "Servicios":["liberacion", ""]
+                },
+                {
+                 "Nombre": "Blade 10 Prime",
+                 "Numero de modelo":"",
+                 "Servicios":["liberacion", ""]
+                } 
+            ],
+            "Imagen":"pics/minZte.jpg"
+        }
+    ]
+}

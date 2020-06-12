@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Carrito</title>
+    <link rel="stylesheet" href="flexslider.css" type="text/css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+    <link rel="stylesheet" href="css/estilosIndex.css">
+    <link rel="stylesheet" href=css/fontello.css>
+    <link rel="stylesheet" href="/fontawesome-free-5.13.0-web/css/all.css">
+    <script src="js/jquery.flexslider.js"></script>
+    <script type="text/javascript" charset="utf-8">
+        $(window).load(function() {
+          $('.flexslider').flexslider({
+              touch: true,
+              pauseOnAction: false,
+              pauseOnHover: false,
+          });
+        });
+      </script>
+</head>
+<body>
+    <div class="row">
+            <div class="logo col-s-3" style="padding-top: 10;">
+                <img src="img/plazacellL3,1.png" alt="" >
+            </div>
+          <div class=" col-m-12 col-s-3 img-fluid">
+            <form action="" class="search">
+                <input class ="img-fluid" type="text" placeholder="Buscar ">
+                <!--<button class="">Buscar</button>-->
+            </form>     
+        </div> 
+        <div class="row" style="padding-top: 10; padding-left: 90%; ">
+            <div class="col-s-3 cajausuario">
+                <a href="login.html"><img src="pics/usuario.svg" alt="" width="40px" height="40px"></a>
+            </div>
+            <div class="col-s-3 cajausuario">
+                <a href="login.html"><img src="pics/carrito.png" alt="" width="45px" height="45px"></a>
+            </div>
+           
+        </div>
+       <!--<a href="">
+            <div class="col-s-3 icon">
+                <i class="fas fa-shopping-cart">Mi cuenta</i>
+            </div>
+        </a>
+        
+        <a href="">
+            <div class="col-s-3 icon">
+                <i class="fas fa-user-circle">Mi cuenta</i>
+            </div>
+        </a>--> 
+    </div>
+
+    <header class="pr-5 pl-5">
+      
+            <input type="checkbox" id="btn-menu">
+            <label for="btn-menu" class="icon-menu"></label>
+            <!-- id="nav" class=" row"-->
+             <!--
+            <ul >
+                <li class="categorias"><a> categorias</a></li>
+                <li><a href="">Inicio</a></li>
+                <li><a href="#">Catalogo</a></li>
+                <li><a href="#">Tienda</a></li>
+                <li><a href="#">Ubicación</a></li>
+            </ul>-->
+            <nav class="menu pr-5 pl-5" >
+                <ul>
+                    <li><a href="index.html">Inicio</a></li>
+                    <li><a href="catalogo.html">Soporte Tecnico</a></li>
+                    <li><a href="tienda.html">Tienda</a></li>
+                    <li><a href="add-inventory-admin.html">Ubicación</a></li>
+                </ul>
+            </nav>
+     
+        
+    </header>
+    <div class="pl-1 pr-1">
+        
+        <div class="pad-index" id="pad-index">
+            <div class="cat-text pl-7 pt-3">
+                <h1 class ="pl-2">Carrito de compras</h1>
+            </div>
+            <hr> 
+
+    
+    <div class="pie-pagina row">
+        <div class="envios">
+            <p class="text-white">Envíos a toda la República Mexicana</p>
+            <p>Envío gratis en compras mínimas de $600MXN</p>
+        </div>
+    </div>
+    <script src="javascript.js"></script>
+</body>
+</html>

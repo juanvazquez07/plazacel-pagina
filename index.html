@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Proyecto-plazacell</title>
+    <link rel="stylesheet" href="flexslider.css" type="text/css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/estilosIndex.css">
+    <link rel="stylesheet" href="css/estilosPop.css">
+    <link rel="stylesheet" href=css/fontello.css>
+    <link rel="stylesheet" href="/fontawesome-free-5.13.0-web/css/all.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css">
+    
+    <script src="js/jquery.flexslider.js"></script>
+    <script type="text/javascript" charset="utf-8">
+        $(window).load(function() {
+          $('.flexslider').flexslider({
+              touch: true,
+              pauseOnAction: false,
+              pauseOnHover: false,
+          });
+        });
+      </script>
+</head>
+<body>
+    <div class="row">
+            <div class="logo col-s-3" style="padding-top: 10;">
+                <img src="img/plazacellL3,1.png" alt="" >
+            </div>
+           <div class=" col-m-12 col-s-3 img-fluid">
+                <form action="" class="search">
+                    <input class ="img-fluid" type="text" placeholder="Buscar ">
+                    <!--<button class="">Buscar</button>-->
+                </form>     
+           </div> 
+            <div class="row" style="padding-top: 10; padding-left: 80%; ">
+                <div class="col-s-3 cajausuario">
+                    <a href="login.html"><img src="pics/usuario.svg" alt="" width="40px" height="40px"></a>
+                </div>
+                <div class="col-s-3 cajausuario">
+                    <button id="btn-abrir-popup" class="btn-abrir-popup">Carrito</button>
+                </div>    
+                        
+            </div>
+           
+    </div>
+    
+       <!--<a href="">
+            <div class="col-s-3 icon">
+                <i class="fas fa-shopping-cart">Mi cuenta</i>
+            </div>
+        </a>
+        
+        <a href="">
+            <div class="col-s-3 icon">
+                <i class="fas fa-user-circle">Mi cuenta</i>
+            </div>
+        </a>--> 
+
+
+    <header class="pr-5 pl-5">
+      
+            <input type="checkbox" id="btn-menu">
+            <label for="btn-menu" class="icon-menu"></label>
+            <!-- id="nav" class=" row"-->
+             <!--
+            <ul >
+                <li class="categorias"><a> categorias</a></li>
+                <li><a href="">Inicio</a></li>
+                <li><a href="#">Catalogo</a></li>
+                <li><a href="#">Tienda</a></li>
+                <li><a href="#">Ubicación</a></li>
+            </ul>-->
+            <nav class="menu pr-5 pl-5" >
+                <ul>
+                    <li><a href="index.html">Inicio</a></li>
+                    <li><a href="catalogo.html">Soporte Tecnico</a></li>
+                    <li><a href="tienda.html">Tienda</a></li>
+                    <li><a href="add-inventory-admin.html">Ubicación</a></li>
+                </ul>
+            </nav>
+     
+        
+    </header>
+   
+    
+    
+    <div class="row">
+        <div class="flexslider">
+		<ul class="slides">
+			<li>
+				<img src="img/bannerhorizontalblue.jpg" alt="">
+				<section class="flex-caption">
+					<p>LOREM IPSUM 1</p>
+				</section>
+			</li>
+			<li>
+				<img src="img/bannerhorizontalblue.jpg" alt="">
+				<section class="flex-caption">
+					<p>LOREM IPSUM 2</p>
+				</section>
+			</li>
+			<li>
+				<img src="img/bannerhorizontalblue.jpg" alt="">
+				<section class="flex-caption">
+					<p>LOREM IPSUM 3</p>
+				</section>
+			</li>
+		</ul>
+	    </div>
+    </div>
+    <!--<div class="row div-cat1">
+            <div class="col-m-4 col-s-4 img-fluid">
+                <div class="image "></div>    
+            </div>
+            <div class="col-m-4 col-s-4 ">
+                <div class="image"></div>
+            </div>
+            <div class="col-m-4 col-s-4">
+                <div class="image"></div>
+            </div>   
+    </div> -->
+    
+    
+    <div class="pl-1 pr-1" id="lista-productos">
+        
+        <div class="pad-index" id="pad-index">
+            <div class="cat-text pl-7 pt-3"><h1 class ="pl-2">Ofertas</h1></div>
+            <hr> 
+           
+            <div class="flex-container row img-fluid efect" id="cases_fundas">  
+                
+            </div>
+            <div class="cat-text pl-7 pt-3"><h1 class ="pl-2">Lo mas vendido</h1></div>
+            <hr> 
+            <div class="flex-container row img-fluid efect" id="micas_protectoras">  
+
+            </div>
+            <div class="cat-text pl-7 pt-3"><h1 class ="pl-2">Recomendado para ti</h1></div>
+            <hr> 
+            <div class="flex-container row img-fluid efect" id="cargadores">  
+               
+            </div>
+        <div class="cat-text pl-7 "><h1 class ="pl-2">Categorias</h1></div>
+        <hr>  
+    </div>
+
+    <div class="pie-pagina row" id="pie-pagina">
+        <div class="envios">
+            <p class="text-white">Envíos a toda la República Mexicana</p>
+            <p>Envío gratis en compras mínimas de $600MXN</p>
+        </div>
+    </div>
+    <div class="overlay" id="overlay">
+        <div class="popup" id="popup">
+            <a href="#" id="btn-cerrar-popup" class="btn-cerrar-popup"><i class="fas fa-times"></i></a>
+            <h3>Carro De Compras</h3>
+            <div id="carrito" class="dropdown-menu" aria-labelledby="navbarCollapse"></div>
+                <table id="lista-carrito" class="table">
+                    <thead>
+                        <tr>
+                            <th>Imagen</th>
+                            <th>Nombre</th>
+                            <th>Precio</th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody></tbody>
+                </table>
+        
+                <a href="#" id="vaciar-carrito" class="btn btn-primary btn-block">Vaciar Carrito</a>
+                <a href="#" id="procesar-pedido" class="btn btn-danger btn-block">Procesar Compra</a>
+            </div>
+        </div>
+        
+    </div>
+    <script src="js/app.js"></script>
+    <script src="tareas.js"></script>
+    <script src="carrito.js"></script>
+    <script src="pedido.js"></script>
+    <script src="popup.js"></script>
+</body>
+</html>
