@@ -1,0 +1,363 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+hr{
+    padding: 0 200px 3px 10px;
+}
+
+body {
+  background: #ecf0f1;
+  font-family:Poppins;
+  margin: 0 auto;
+}
+p {
+  color: #524c56;
+  font-size: 150%;
+  line-height: 155%;
+  padding: 3%;
+  text-indent: 2%;
+  text-align: justify;
+}
+
+h3{
+  font-family:Poppins;
+  font-size: 155%;
+  color: #FFFFFF;
+  text-transform: uppercase;
+  padding: 0;
+  background-color:orange;
+  margin: auto 10px;
+}
+.h3 {
+  padding: 10;
+}
+a {
+  color: #524c56;
+  text-decoration: none;
+  font-weight: bold;
+}
+a:hover {
+  color: #c3d7df;
+}
+img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  height: auto;
+  width: auto;
+  margin-bottom: -30px;
+}
+
+#wrapper {
+  max-width: 1300px;
+  margin: 0 auto;
+}
+#banner-wrapper {
+  max-width:1300px;
+  margin: 0 auto;
+  padding: 0 0 3% 0;
+}
+header {
+  width: 100%;
+  height: 100px;
+  top: 100px;
+  left: 0;
+  float: none;
+}
+
+header div nav{
+  background-color:#333;
+  width: 101%;
+  height: 45px;
+  margin: auto 0;
+}
+header #logo img{
+  margin: 10px;
+  float: left;
+  width: 100px;
+}
+/* NAVIGATION*/
+nav {
+  float: right;
+  padding: 5px 20px 5px 0px;
+}
+
+#menu-icon {
+  display: none;
+  font-size: 50px;
+}
+ul {
+  list-style: none;
+}
+
+nav ul li {
+  font-size: 130%;
+  display: inline-block;
+  float: left;
+  padding:8px;
+}
+
+nav ul li a {
+  color: #ffffff;
+}
+
+.current {
+  color: #3F5767;
+}
+a:hover {
+  color: #a5bdcd;
+}
+/*
+.slider {
+  max-width: 1200px;
+}
+.slider img {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+}*/
+
+
+
+.icon-wrap {
+  margin: 0 auto;
+  width: 120px;
+  height: 120px;
+  background-color: #6991ac;
+  border-radius: 125px;
+  text-align: center;
+  margin-top: 3%;
+}
+
+icon-wrap i {
+  text-align: center;
+  color: #ffffff;
+  font-size: 450%;
+  padding: 20%;
+}
+
+/* SECTION 2*/
+.left-col {
+  float: left;
+  margin: 0 auto;
+  width: 60%;
+  height: auto;
+  padding: 1%;
+}
+.sidebar {
+  float: right;
+  margin: 0 auto;
+  width: 32%;
+  height: auto;
+  padding: 1%;
+}
+/* ONE THIRD PADDING*/
+.one-third-padding {
+  width: 20%;
+  float: left;
+  margin: 0% 2%;
+}
+
+.one-third-padding img{
+  width: 50%;
+}
+
+.one-third{
+  width:100%;
+  float: right;
+}
+
+.clearfix-padding {
+  clear: both;
+  padding: 2%;
+}
+
+footer {
+  background: #2c3e50;
+  width: 100%;
+  overflow: auto;
+}
+
+section img{
+  float:left;
+  width: 22%;
+  margin: 0px auto;
+  padding: 10px;
+}
+.celulares-arriba i{
+    width: 18%;
+    border: 0px solid #a3a3a3;
+}
+
+.accesorios-arriba img{
+  width: 21%;
+  border: 0px solid #a3a3a3;
+}
+
+.nu-info{
+  background-color: black;
+}
+
+.h3 compr{
+width:180px;
+height:30px;
+background-color: orange;
+font-family:arial;
+font-weight:bold;
+font-size: 10;
+color:#EEEEEE;
+margin-left: 480px;
+margin-top: 360px;
+}
+
+.boton{
+    text-decoration: none;
+    padding: 8px;
+    font-weight: 250;
+    font-size: 30px;
+    color: #ffffff;
+    background-color: #ff8c00;
+    border: 2px solid #ff8000;
+  }
+
+.a {
+  padding-top: 200px;
+}
+
+.one-mode{
+  padding: 200px ;  
+  font-size: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@import "compass/css3";
+
+/***********************
+ * Essential Structure *
+ ***********************/
+.flexsearch--wrapper {
+	height: auto;
+	width: auto;
+	max-width: 50%;
+	overflow: hidden;
+	background: transparent;
+	margin: 0;
+	position: static;
+}
+
+.flexsearch--form {
+	overflow: hidden;
+	position: relative;
+}
+
+.flexsearch--input-wrapper {
+	padding: 0 66px 0 0; /* Right padding for submit button width */
+	overflow: hidden;
+}
+
+.flexsearch--input {
+  width: 100%;
+}
+.flexsearch .login img{
+  float:left;
+  width: 10%;
+  padding:0px;
+}
+.flexsearch img{
+  float:left;
+  width: 10%;
+  padding:0px;
+}
+.flexsearch a{
+  float: right;
+}
+/***********************
+ * Configurable Styles *
+ ***********************/
+.flexsearch {
+  padding: 0 25px 0 0; /* Padding for other horizontal elements */
+  background-color:orange;
+}
+
+.flexsearch--input {
+  -webkit-box-sizing: content-box;
+	-moz-box-sizing: content-box;
+	box-sizing: content-box;
+ 	height: 50px;
+  padding: 0 46px 0 10px;
+	border-color: #888;
+  border-radius: 20px; /* (height/2) + border-width */
+  border-style: solid;
+	border-width: 2px;
+  margin-top: 10px;
+  color: #333;
+  font-family: 'Helvetica', sans-serif;
+	font-size: 16px;
+	-webkit-appearance: none;
+	-moz-appearance: none;
+}
+
+.flexsearch--submit {
+  position: absolute;
+	right: 0;
+	top: 0;
+	display: block;
+	width: 60px;
+	height: 60px;
+  padding: 0;
+  border: none;
+	margin-top: 10px; /* margin-top + border-width */
+  margin-right: 5px; /* border-width */
+	background: transparent;
+  color: #888;
+  font-family: 'Helvetica', sans-serif;
+  font-size: 30px;
+  line-height: 30px;
+}
+
+.flexsearch--input:focus {
+  outline: none;
+  border-color: #333;
+}
+
+.flexsearch--input:focus.flexsearch--submit {
+ 	color: #333;
+}
+
+.flexsearch--submit:hover {
+  color: #333;
+  cursor: pointer;
+}
+
+::-webkit-input-placeholder {
+	color: #888;
+}
+
+input:-moz-placeholder {
+  color: #888
+}

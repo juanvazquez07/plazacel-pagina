@@ -1,0 +1,130 @@
+footer{
+   
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    /*height:450px;*/
+    color: rgb(8, 8, 8);
+    /*border-top: 1px solid #e3b04b;*/
+    background-color: rgb(253, 252, 252);
+    margin: 0px;
+    height:relative;
+}
+
+.envios,.metodospago,.terminos,.derechos{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.envios{
+    justify-content: space-around;
+    border-bottom:1px solid lightgray;
+    width: 100%;
+    /*height:50px;*/
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    background-color: lightgray;
+    height:relative;
+}
+
+.envios img{
+    width: 50px;
+    height: 50px;
+}
+
+.metodospago{
+    justify-content: space-around;
+    width: 100%;
+    height:relative;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.metodospago p{
+    padding-left:70px;
+    padding-top: 20px;
+    margin:0px;
+}
+
+
+.terminos{
+    justify-content: space-around;
+    width: 100%;
+    height: relative;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    padding-top: 30px;
+}
+
+
+#ter{
+    text-decoration: none;
+}
+.terminos li{
+    padding-bottom: 10px;
+    
+}
+
+.derechos{
+    justify-content: space-around;
+    flex-direction: row-reverse;
+    width: 100%;
+    height: relative;
+    background-color:lightgray;
+    padding-top: 10px;
+    align-items: center;
+    text-align: center;
+
+
+}
+
+
+.redes ul{
+    list-style: none;
+}
+
+
+.red{
+    width: 30px;
+    height: 30px;
+}
+
+.bier{
+    font-family: 'Times New Roman', Times, serif;
+    color: #e3b04b;
+    font-size: 35px;
+    padding-right: 20px;
+    padding-left: 20px;
+
+    height: 40px;
+    margin:0px;
+    
+}
+
+.info{
+    height: 40px;
+    margin:0px;
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+
+}
+
+@media (max-width: 810px)
+{
+    
+    .terminos{
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    .envios{
+        flex-direction: column;
+        align-items: center;
+    }
+
+}
+
